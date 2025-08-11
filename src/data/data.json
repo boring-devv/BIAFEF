@@ -1,0 +1,134 @@
+{
+  "Header": {
+    "title": "BIAFEF",
+    "paragraph": "A global fellowship of professionals in accounting, finance, and entrepreneurship. Register today to connect, learn, and grow!"
+  },
+  "About": {
+    "paragraph": "BIAFEF is a vibrant community of accountants, finance experts, and entrepreneurs dedicated to professional growth, networking, and ethical leadership. We empower members through mentorship, events, and opportunities for collaboration.",
+    "Why": [
+      "Professional development and mentorship",
+      "Exclusive networking opportunities",
+      "Access to resources and events",
+      "Supportive fellowship environment"
+    ],
+    "Why2": [
+      "Ethical leadership focus",
+      "Global connections",
+      "Career advancement",
+      "Entrepreneurial support"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Employment & Study Abroad",
+      "text": "Support in securing employment and study opportunities in the UK, Europe, and Canada."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "Business Planning & Finance",
+      "text": "Professional help with business plans and finance sourcing for new or expanding businesses."
+    },
+    {
+      "icon": "fa fa-building-o",
+      "name": "Property & Development",
+      "text": "Connecting property developers with overseas partners and import/export finance assistance."
+    },
+    {
+      "icon": "fa fa-music",
+      "name": "Media & Entertainment",
+      "text": "Promotion of music, dance, entertainment, and opportunities in film, TV, and Nollywood."
+    },
+    {
+      "icon": "fa fa-futbol-o",
+      "name": "Sports & Exchange Programs",
+      "text": "International sports promotion and exchange programs across Africa and the Caribbean."
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "Community Support & Grants",
+      "text": "Assistance for seniors, disabled, and single parents. Charity partnerships for welfare funding."
+    },
+    {
+      "icon": "fa fa-leaf",
+      "name": "Farming & Youth Empowerment",
+      "text": "Supporting youth in agriculture and agro-industries to create jobs and reduce poverty."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Training & Development",
+      "text": "Professional training in accounting, auditing, and business consultancy with modern software."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Joining BIAFEF opened doors to new opportunities and lifelong friendships!",
+      "name": "A. Member"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "The mentorship and support here are unmatched.",
+      "name": "B. Member"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "A truly global network for finance and entrepreneurship.",
+      "name": "C. Member"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/joseph-aluko.png",
+      "name": "Chairman",
+      "job": "Archbishop Joseph Aluko, +44 7498 568978, +234 916 901 7000, alukojoseph@gmail.com"
+    },
+    {
+      "img": "img/avatar.png",
+      "name": "Secretary General",
+      "job": "Bishop Ibiyekaribo Richmond Jack, +234 809 560 4798, irjack2000@yahoo.com"
+    },
+    {
+      "img": "img/avatar.png",
+      "name": "Co-chairman 1",
+      "job": "Her Eminence Offiong Ekpo, FCA, 08022913624, ekpo.offiong@yahoo.com"
+    },
+    {
+      "img": "img/avatar.png",
+      "name": "Co-chairman 2",
+      "job": "Archbishop (Dr.) Iwora G. Agara, FCA, 07039814540, iworagodfrey@yahoo.com"
+    }
+  ],
+  "Contact": {
+    "address": "34 Ambo Street, BCS WHQ",
+    "phone": "+234 809 560 4798",
+    "email": "irjack2000@yahoo.com",
+    "phone2": "+44 7498 568978 / +234 916 901 7000",
+    "email2": "alukojoseph@gmail.com",
+    "facebook": "#",
+    "twitter": "#",
+    "youtube": "#"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-users",
+      "title": "Fellowship",
+      "text": "Join a strong network of professionals."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "title": "Opportunities",
+      "text": "Unlock new business and career opportunities."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Mentorship",
+      "text": "Learn from experienced leaders."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Innovation",
+      "text": "Share and develop new ideas."
+    }
+  ]
+}
