@@ -84,7 +84,7 @@
       "job": "Archbishop Joseph Aluko, +44 7498 568978, +234 916 901 7000, alukojoseph@gmail.com"
     },
     {
-      "img": "img/avatar.png",
+      "img": "img/Secetary.jpg",
       "name": "Secretary General",
       "job": "Bishop Ibiyekaribo Richmond Jack, +234 809 560 4798, irjack2000@yahoo.com"
     },
@@ -94,9 +94,24 @@
       "job": "Her Eminence Offiong Ekpo, FCA, 08022913624, ekpo.offiong@yahoo.com"
     },
     {
-      "img": "img/avatar.png",
+      "img": "img/Agara.jpg",
       "name": "Co-chairman 2",
       "job": "Archbishop (Dr.) Iwora G. Agara, FCA, 07039814540, iworagodfrey@yahoo.com"
+    },
+    {
+      "img": "img/ok.png",
+      "name": "Financial Secretary / Member Finance Committee",
+      "job": "Christ Ambassador Friday Afekhoba Ohiokhuaobo, FNIE, FCA, 07018285903, fodivbi@gmail.com"
+    },
+    {
+      "img": "img/onen.jpeg",
+      "name": "Chairman Operations & Membership",
+      "job": "Dr. Nnasia N Asanga ACTI FCA "
+    },
+    {
+      "img": "img/immaa.jpeg",
+      "name": "Chairman Ethics & Discipline",
+      "job": "Emmanuel Osaigbovo Imarhiagbe AMNIM ACA"
     }
   ],
   "Contact": {
